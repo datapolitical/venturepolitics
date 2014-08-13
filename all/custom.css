@@ -1,0 +1,114 @@
+h3{
+	font-size: 20px;
+}
+
+.navbar{
+	background-color: #878787;
+	border: #4D4D4D;
+  height: 60px;
+
+}
+
+.navbar-default .navbar-nav>li>a { 
+	color:white;
+}
+
+
+.nav-pad{
+	padding-top: 40px;
+}
+
+#bgcolor{
+	background-color: #4D4D4D;
+
+}
+
+body{
+	color: white;
+} 
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #878787;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.splash-content{
+  padding-bottom: 50px;
+}
+
+#contact{
+  font-size: 18px;
+  padding-top: 20px;
+  padding-right: 40px;  
+}
+
+#logo{
+  padding-left: 20px;
+}
+
+.btn-main{
+  width: 250px;
+  height: 50px;
+  font-size: 14px;
+  background-color:#27A9E1;
+}
+
+#content: {
+  padding-top: 3em;
+  padding-bottom: 2em;
+}
+
+#contact-main{
+  padding-top: 90px;
+
+}
+
+#logo-home{
+  background-size: cover;
+  padding-top: 4em;
+ 
+}
+
+body{
+  background-image:url('/static/img/dot-map-4.png');
+}
+
+#slogan{
+  padding-top: 2em ;
+  padding-bottom: 1em;
+}
+
+a{
+  color:#27A9E1;
+}
+
+#get-in-touch{
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
